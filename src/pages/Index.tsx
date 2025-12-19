@@ -15,7 +15,7 @@ interface Photo {
 const photos: Photo[] = [
   {
     id: 1,
-    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/4dcfbe53-a436-4361-b242-a1f97c62ef98.jpg",
+    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/1a674808-2d1c-47d9-ac24-77f4d9848f1d.jpg",
     title: "Естественный портрет",
     category: "Студия",
     lighting: "Дневной свет",
@@ -23,43 +23,43 @@ const photos: Photo[] = [
   },
   {
     id: 2,
-    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/19a82470-8f60-4a09-805b-a687c687f7a5.jpg",
-    title: "Динамика в кадре",
-    category: "Студия",
-    lighting: "Золотой час",
-    style: "В движении"
-  },
-  {
-    id: 3,
-    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/1fa9f64f-1c9e-4055-859b-c0555a28a56d.jpg",
-    title: "Деловой портрет",
-    category: "Студия",
-    lighting: "Студийный свет",
-    style: "С аксессуарами"
-  },
-  {
-    id: 4,
-    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/9d86ebda-1da3-4fe0-9ddf-83fa53b72720.jpg",
+    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/85e8c839-1bd9-4e4f-b09b-28dd7e4aa4f8.jpg",
     title: "Полный рост",
     category: "Студия",
     lighting: "Естественный свет",
     style: "С реквизитом"
   },
   {
-    id: 5,
-    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/e55825ef-b8e0-4b96-81d5-782fac8d8fd2.jpg",
+    id: 3,
+    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/c7429ff1-bc1f-4037-8729-36ade8d7b605.jpg",
     title: "Крупный план",
     category: "Студия",
     lighting: "Оконный свет",
+    style: "Минимализм"
+  },
+  {
+    id: 4,
+    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/f7a6976c-b9bc-4691-96e1-bc3d7107b906.jpg",
+    title: "Динамика в кадре",
+    category: "Студия",
+    lighting: "Золотой час",
+    style: "В движении"
+  },
+  {
+    id: 5,
+    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/6219612f-1698-4fe4-9678-4eb9ea907a7d.jpg",
+    title: "Профильный портрет",
+    category: "Студия",
+    lighting: "Студийный свет",
     style: "С аксессуарами"
   },
   {
     id: 6,
-    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/79b05b64-c821-45c4-87c4-6f1520606ac2.jpg",
-    title: "Живая эмоция",
+    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/9a4f8906-8df3-457a-9f9d-a040c2db79ea.jpg",
+    title: "С реквизитом",
     category: "Студия",
     lighting: "Дневной свет",
-    style: "В движении"
+    style: "С реквизитом"
   }
 ];
 
@@ -78,7 +78,7 @@ export default function Index() {
       <header className="border-b border-border/50 backdrop-blur-sm fixed w-full top-0 z-50 bg-background/80">
         <div className="container mx-auto px-6 py-6 flex items-center justify-between">
           <h1 className="text-3xl font-heading font-semibold tracking-tight">
-            Sofia Mitchell
+            Yuki Tanaka
           </h1>
           <nav className="flex gap-8 items-center">
             <a href="#portfolio" className="text-sm font-body hover:text-accent transition-colors">
@@ -268,7 +268,7 @@ export default function Index() {
 
       <footer className="border-t border-border mt-24 py-12">
         <div className="container mx-auto px-6 text-center text-muted-foreground font-body text-sm">
-          © 2024 Sofia Mitchell. Все права защищены.
+          © 2024 Yuki Tanaka. Все права защищены.
         </div>
       </footer>
     </div>
