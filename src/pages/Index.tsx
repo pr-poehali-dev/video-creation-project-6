@@ -15,7 +15,7 @@ interface Photo {
 const photos: Photo[] = [
   {
     id: 1,
-    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/1a674808-2d1c-47d9-ac24-77f4d9848f1d.jpg",
+    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/ff48db9f-6a0d-4e43-8c0f-276d0216e8f2.jpg",
     title: "Естественный портрет",
     category: "Студия",
     lighting: "Дневной свет",
@@ -23,7 +23,7 @@ const photos: Photo[] = [
   },
   {
     id: 2,
-    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/85e8c839-1bd9-4e4f-b09b-28dd7e4aa4f8.jpg",
+    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/e9829e2f-2c47-4e03-a28f-5b5d861aa2e5.jpg",
     title: "Полный рост",
     category: "Студия",
     lighting: "Естественный свет",
@@ -31,7 +31,7 @@ const photos: Photo[] = [
   },
   {
     id: 3,
-    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/c7429ff1-bc1f-4037-8729-36ade8d7b605.jpg",
+    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/4025a5f2-a95a-40ac-baa1-6c99b5befca2.jpg",
     title: "Крупный план",
     category: "Студия",
     lighting: "Оконный свет",
@@ -39,7 +39,7 @@ const photos: Photo[] = [
   },
   {
     id: 4,
-    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/f7a6976c-b9bc-4691-96e1-bc3d7107b906.jpg",
+    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/84e3ad22-9809-408f-a49b-2e232fe97654.jpg",
     title: "Динамика в кадре",
     category: "Студия",
     lighting: "Золотой час",
@@ -47,7 +47,7 @@ const photos: Photo[] = [
   },
   {
     id: 5,
-    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/6219612f-1698-4fe4-9678-4eb9ea907a7d.jpg",
+    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/d20597fa-8f30-479c-90df-fb2906b54a64.jpg",
     title: "Профильный портрет",
     category: "Студия",
     lighting: "Студийный свет",
@@ -55,7 +55,7 @@ const photos: Photo[] = [
   },
   {
     id: 6,
-    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/9a4f8906-8df3-457a-9f9d-a040c2db79ea.jpg",
+    url: "https://cdn.poehali.dev/projects/fb7518fe-0602-4d06-92a3-3ef3772b86a7/files/7a68fa70-6147-483f-8d06-e398325959e3.jpg",
     title: "С реквизитом",
     category: "Студия",
     lighting: "Дневной свет",
